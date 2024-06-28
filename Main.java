@@ -1,5 +1,7 @@
 /*
  * Test the use of the Color method
+ *
+ * @author Elias Burke, ejburke@wisc.edu, eburke (CS account username)
  */
 import java.util.*;
 

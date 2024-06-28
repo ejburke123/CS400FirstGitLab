@@ -1,5 +1,7 @@
 /*
  *	Color class
+ *
+ *	@author Elias Burke, ejburke@wisc.edu, eburke (CS account username)
  */
 public class Color{
 	private String color;
